@@ -1,5 +1,3 @@
-from operator import countOf
-
 import translator as tr
 
 t = tr.Translator()

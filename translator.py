@@ -56,6 +56,7 @@ class Translator:
                     file.write(frase)
 
             print(parole)
+        self.loadDictionary(self.dizionario.name) # AGGIORNO IL DIZIONARIO
 
     def handleTranslate(self, query):
         # query is a string <parola_aliena>

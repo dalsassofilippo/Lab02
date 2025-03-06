@@ -105,3 +105,6 @@ kirja libro
 sanomalehti giornale
 kynä penna
 paperi carta
+haslme riga
+riuka falso corrotto ingiusto
+hasmle linea fila
